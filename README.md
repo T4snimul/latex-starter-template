@@ -1,4 +1,4 @@
-# LaTeX Starter Template
+# LaTeX Starter Template (Not Working)
 
 A minimal, modular LaTeX setup with auto-build, live preview, and Docker support.
 Clone it, write, and hit save — everything else just works.
