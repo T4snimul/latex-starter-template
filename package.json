@@ -1,0 +1,37 @@
+{
+  "name": "latex-starter-template",
+  "version": "1.0.0",
+  "description": "A minimal, modular LaTeX setup with auto-build, live preview",
+  "keywords": [
+    "latex",
+    "latex-template",
+    "latex-starter",
+    "latexmk",
+    "pdf-generator",
+    "document-automation",
+    "academic-writing",
+    "technical-writing",
+    "paper-template",
+    "thesis-template"
+  ],
+  "homepage": "https://github.com/T4snimul/latex-starter-template#readme",
+  "bugs": {
+    "url": "https://github.com/T4snimul/latex-starter-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T4snimul/latex-starter-template.git"
+  },
+  "license": "MIT",
+  "author": "Tasnimul Hasan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "chokidar": "^5.0.0",
+    "express": "^5.2.1"
+  }
+}
